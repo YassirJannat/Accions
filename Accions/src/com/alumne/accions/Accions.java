@@ -14,7 +14,7 @@ public class Accions {
 	public int registrarPreu(double preu, String ticker) {
 	 
 		//Si fora real guardaria a la base de dades el nom de l'empresa i el valor de l'acció
-		//però com es tracta d'una prova només els mostra per pantalla
+		//però com es tracta d'una prova només els mostra per pantalla.
 		
 		String tickersValids = "AAPL AMZN FB GOOGL";
 			
