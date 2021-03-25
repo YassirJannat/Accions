@@ -5,7 +5,6 @@ public class Accions {
 	/**
 	 * Aquest metode comprovara que els noms de la empresa concideixen amb el de la Array i
 	 * que els preus estiguin entre el preu minim i el preu maxim.
-	 * 
 	 * Si el nom de l'empresa no es un dels que esta a l'array retornara un -1.
 	 * Si el preu de l'accio es inferior a 0 retornara un -2 i si es superior
 	 * retornara un -3.
